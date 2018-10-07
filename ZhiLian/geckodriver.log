@@ -1,0 +1,1088 @@
+1537364846915	geckodriver	INFO	geckodriver 0.20.1
+1537364846950	geckodriver	INFO	Listening on 127.0.0.1:62639
+1537364849940	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.7Wc7mwKiOQmz"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537364855893	Marionette	INFO	Listening on port 62652
+1537364856713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537364856771	Marionette	DEBUG	[6442450945] Frame script loaded
+1537364856773	Marionette	DEBUG	[6442450945] Frame script registered
+1537364856796	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537364858588	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1537364859523	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1537364859666	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+[Child 17332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 20896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537365335897	Marionette	INFO	Stopped listening on port 62652
+[GPU 17268, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365019922	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365021943	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1204[Parent 20652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537365038888	Marionette	INFO	Stopped listening on port 63070
+[GPU 18036, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365042940	geckodriver	INFO	geckodriver 0.20.1
+1537365042977	geckodriver	INFO	Listening on 127.0.0.1:63168
+1537365045951	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.SKkuWplFZ4Ip"
+1537365051411	Marionette	INFO	Listening on port 63183
+1537365051761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365051804	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365051808	Marionette	DEBUG	[6442450945] Frame script registered
+1537365051821	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365051931	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365054066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365056371	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+[Parent 11244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[Child 14620, Chcrcome_C,hildThread] WARNING: pipe error: 109: file z:/bui line 346
+ld/build/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s[Child 905rc/ipc/chro6,mium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14620, Chrome_ChildThread] WARNING: p[Parent 11244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20420, 1537365063183	Marionette	INFO	Stopped listening on port 63183
+[GPU 13100, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365339611	geckodriver	INFO	geckodriver 0.20.1
+1537365339644	geckodriver	INFO	Listening on 127.0.0.1:63683
+1537365342631	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.PQjSa9umrRiQ"
+1537365348593	Marionette	INFO	Listening on port 63695
+1537365348954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365348989	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365348993	Marionette	DEBUG	[6442450945] Frame script registered
+1537365349017	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365349474	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365351250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365354431	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365354692	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537365354705	Marionette	INFO	Stopped listening on port 63695
+[Child 21148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8308, C[Parent 16152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20212, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365466326	geckodriver	INFO	geckodriver 0.20.1
+1537365466366	geckodriver	INFO	Listening on 127.0.0.1:63938
+1537365469372	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.4N3g8IQvfpo4"
+1537365474561	Marionette	INFO	Listening on port 63951
+1537365475004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365475039	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365475042	Marionette	DEBUG	[6442450945] Frame script registered
+1537365475055	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365475547	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365477166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365480072	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365480341	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537365486362	Marionette	INFO	Stopped listening on port 63951
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 19420, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365529250	geckodriver	INFO	geckodriver 0.20.1
+1537365529304	geckodriver	INFO	Listening on 127.0.0.1:64095
+1537365532266	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.RYd2bJZytHWw"
+1537365537453	Marionette	INFO	Listening on port 64108
+1537365537578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365537635	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365537744	Marionette	DEBUG	[6442450945] Frame script registered
+1537365537794	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365537946	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365538597	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365541558	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365541815	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+[Parent 20748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1537365667595	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.lkEY1lEsxwG9"
+1537365673059	Marionette	INFO	Listening on port 64445
+1537365673447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365673493	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365673504	Marionette	DEBUG	[6442450945] Frame script registered
+1537365673539	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365673612	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365675339	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365677298	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365677451	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537365677518	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537365677521	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365678603	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365682019	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 20560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1537365741100	Marionette	INFO	Stopped listening on port 64445
+[GPU 16928, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365742595	geckodriver	INFO	geckodriver 0.20.1
+1537365742631	geckodriver	INFO	Listening on 127.0.0.1:64657
+1537365745630	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.EHLj5WuaGVqj"
+1537365751814	Marionette	INFO	Listening on port 64669
+1537365751994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365752041	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365752044	Marionette	DEBUG	[6442450945] Frame script registered
+1537365752066	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365752737	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365754221	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365756640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365756687	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537365756713	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537365756714	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365757311	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365759699	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537365759715	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537365759930	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537365765946	Marionette	INFO	Stopped listening on port 64669
+[Parent 10356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7080, Chrome_ChildThread][Parent 10356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[GPU 3192, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537365792308	geckodriver	INFO	geckodriver 0.20.1
+1537365792358	geckodriver	INFO	Listening on 127.0.0.1:64821
+1537365795323	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.y5KCaWRmdEQe"
+1537365800532	Marionette	INFO	Listening on port 64833
+1537365800911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537365800947	Marionette	DEBUG	[6442450945] Frame script loaded
+1537365800950	Marionette	DEBUG	[6442450945] Frame script registered
+1537365800965	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537365801024	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365802691	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365804818	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537365804874	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537365804925	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537365804926	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365805233	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537365807608	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537365807789	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537365808031	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+[Child 11540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11540[Parent 7640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20660, Chrome_ChildThread] WARNING: pipe error:1537365823696	Marionette	INFO	Stopped listening on port 64833
+[GPU 8128, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537367218044	geckodriver	INFO	geckodriver 0.20.1
+1537367218122	geckodriver	INFO	Listening on 127.0.0.1:52641
+1537367221301	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.p8fgghbdlFFB"
+1537367228205	Marionette	INFO	Listening on port 52665
+1537367228936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537367228997	Marionette	DEBUG	[6442450945] Frame script loaded
+1537367229001	Marionette	DEBUG	[6442450945] Frame script registered
+1537367229019	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537367229476	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537367231165	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537367233574	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537367233636	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537367233719	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537367233720	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537367234384	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537367237498	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537367237507	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+[Parent 8464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha[Parent 8464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537367291317	Marionette	INFO	Stopped listening on port 52665
+[GPU 17684, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537417562177	geckodriver	INFO	geckodriver 0.20.1
+1537417562225	geckodriver	INFO	Listening on 127.0.0.1:55570
+1537417565154	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.KJ0dWN19hbZr"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537417570738	Marionette	INFO	Listening on port 55582
+1537417571072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537417571109	Marionette	DEBUG	[6442450945] Frame script loaded
+1537417571110	Marionette	DEBUG	[6442450945] Frame script registered
+1537417571125	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537417572229	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417573608	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417576380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537417576474	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537417576525	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537417576527	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417577113	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+[Parent 16716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commJavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417577760	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1537417577795	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 2636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537417578609	Marionette	INFO	Stopped listening on port 55582
+[GPU 7728, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537417614319	geckodriver	INFO	geckodriver 0.20.1
+1537417614368	geckodriver	INFO	Listening on 127.0.0.1:55727
+1537417617239	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.R8OKxtF7sw9k"
+1537417622632	Marionette	INFO	Listening on port 55739
+1537417623070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537417623118	Marionette	DEBUG	[6442450945] Frame script loaded
+1537417623119	Marionette	DEBUG	[6442450945] Frame script registered
+1537417623136	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537417623222	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417624072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417626645	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537417626692	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537417626748	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537417626749	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417627120	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417629523	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537417629754	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537417630114	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417636137	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417636214	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417636220	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417636375	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537417636378	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537417636380	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537417636381	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537417636382	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537417636382	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1537417636383	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537417636384	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537417636551	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417637581	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417637745	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537417637751	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417637908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417637919	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+1537417637940	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417638128	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1537417638129	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537417638129	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1537417638130	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1537417638130	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1537417638130	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1537417638130	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1537417638131	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537417638337	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-intro.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417639301	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451018
+1537417639451	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-intro.html
+[Parent 11244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr[Child 10208, Chrome_ChildThread] WARNING: pipe error: 232: file zomium/src/chrome/common/ipc_channel_win.cc, line 346:
+/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10208, Chrome_ChildThread] WARNING: p[Parent 11244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537417725182	Marionette	INFO	Stopped listening on port 55739
+[GPU 10436, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537417731110	geckodriver	INFO	geckodriver 0.20.1
+1537417731146	geckodriver	INFO	Listening on 127.0.0.1:56085
+1537417734079	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.efdwQNNsDvJ4"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537417739553	Marionette	INFO	Listening on port 56098
+1537417739919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537417739967	Marionette	DEBUG	[6442450945] Frame script loaded
+1537417739968	Marionette	DEBUG	[6442450945] Frame script registered
+1537417739984	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537417740900	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417742468	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417745137	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537417745197	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537417745250	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537417745251	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417745667	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417748085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537417748106	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537417748325	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417754351	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417754437	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417754445	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417754612	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537417754613	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537417754613	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537417754613	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537417754614	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1537417754614	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537417754614	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537417754615	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537417754840	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417756620	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1537417758846	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417759125	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417759180	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417759188	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417759492	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1537417759492	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1537417759493	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1537417759493	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1537417759494	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537417759495	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1537417759496	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1537417759496	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1537417759497	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537417759980	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-intro.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417761700	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-intro.html
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537417791722	Marionette	INFO	Stopped listening on port 56098
+[GPU 13140, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537417793317	geckodriver	INFO	geckodriver 0.20.1
+1537417793359	geckodriver	INFO	Listening on 127.0.0.1:56313
+1537417796341	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.qgeOtRRymURJ"
+1537417801607	Marionette	INFO	Listening on port 56328
+1537417801661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537417801729	Marionette	DEBUG	[6442450945] Frame script loaded
+1537417801733	Marionette	DEBUG	[6442450945] Frame script registered
+1537417801750	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537417801890	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417803207	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417805404	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537417805460	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537417805511	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537417805511	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417806057	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417807909	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537417808171	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1537417808673	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417814696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417814773	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417814780	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417814994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537417814994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1537417814994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537417814994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537417814994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537417814995	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1537417814995	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537417814995	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537417815168	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417816125	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1537417816173	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417816338	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1537417816344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417816376	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417816380	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417816572	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1537417816572	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1537417816573	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1537417816573	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1537417816573	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537417816574	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1537417816574	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1537417816574	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537417816743	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-intro.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417817744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451018
+1537417817767	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-intro.html
+[Parent 17012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/[Child 16716, Chrome_ChildTipc_channel_win.cc, line 346h
+read] WARNING: pip[e error: Ch109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 12844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1537417882928	Marionette	INFO	Stopped listening on port 56328
+[GPU 7532, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537417904196	geckodriver	INFO	geckodriver 0.20.1
+1537417904233	geckodriver	INFO	Listening on 127.0.0.1:56611
+1537417907233	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.K5lWswnav5BC"
+1537417912648	Marionette	INFO	Listening on port 56623
+1537417913055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537417913101	Marionette	DEBUG	[6442450945] Frame script loaded
+1537417913102	Marionette	DEBUG	[6442450945] Frame script registered
+1537417913125	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537417913574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417915288	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417917619	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/
+1537417917719	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/
+1537417917781	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/
+1537417917783	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417918330	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417921191	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417927215	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417927289	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417927291	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417927730	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537417927730	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537417927731	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1537417927731	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1537417927731	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537417927731	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417927818	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417928811	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-tutorial.html
+1537417928850	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.runoob.com/html/html-tutorial.html
+1537417928869	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.runoob.com/html/html-tutorial.html
+1537417928871	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.runoob.com/html/html-tutorial.html
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537417929241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537417929241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1537417929241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417929351	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/html/html-intro.html
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1537417930308	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/html/html-intro.html
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+[Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537423716454	Marionette	INFO	Stopped listening on port 56623
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537428093796	geckodriver	INFO	geckodriver 0.20.1
+1537428093830	geckodriver	INFO	Listening on 127.0.0.1:51765
+1537428096831	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.bCwdSCEIVElA"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537428102020	Marionette	INFO	Listening on port 51777
+1537428102177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537428102226	Marionette	DEBUG	[6442450945] Frame script loaded
+1537428102310	Marionette	DEBUG	[6442450945] Frame script registered
+1537428102339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537428104233	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537428104234	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1537428104236	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1537428104353	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/FireFox/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/FireFox/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1588
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1724
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+[Parent 20224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 165console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 632))
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1537428106228	Marionette	INFO	Stopped listening on port 51777
+[GPU 19992, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537428161257	geckodriver	INFO	geckodriver 0.20.1
+1537428161295	geckodriver	INFO	Listening on 127.0.0.1:51913
+1537428164294	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.4VdmenuFZNmu"
+1537428169545	Marionette	INFO	Listening on port 51927
+1537428169617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537428169663	Marionette	DEBUG	[6442450945] Frame script loaded
+1537428169729	Marionette	DEBUG	[6442450945] Frame script registered
+1537428169759	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537428171205	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537428174717	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428175380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428176776	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chan[nCehli_lwdi n8.2c3c6,, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro mline 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 21040, Chrome_ChildThread] WARNING: pipe error: 10e9: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin/common/ipc_channel_win.cc, line 346
+[Child 8236, Chrome_ChildThread] WARNING: pipe error[Parent 7468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1537428247797	Marionette	INFO	Stopped listening on port 51927
+[GPU 6584, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537428250168	geckodriver	INFO	geckodriver 0.20.1
+1537428250205	geckodriver	INFO	Listening on 127.0.0.1:52130
+1537428253205	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.y8yqzXGw4Ai4"
+1537428258598	Marionette	INFO	Listening on port 52142
+1537428259019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537428259058	Marionette	DEBUG	[6442450945] Frame script loaded
+1537428259059	Marionette	DEBUG	[6442450945] Frame script registered
+1537428259073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537428261778	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537428264742	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428265557	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428266849	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 13364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13364, Chrome_ChildThread] WARNING: pipe error: 10[Parent 15392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 13488, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537428272398	Marionette	INFO	Stopped listening on port 52142
+[GPU 16064, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537428301236	geckodriver	INFO	geckodriver 0.20.1
+1537428301270	geckodriver	INFO	Listening on 127.0.0.1:52276
+1537428304273	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.Ks9n4da4kPqs"
+1537428309266	Marionette	INFO	Listening on port 52292
+1537428309652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537428309692	Marionette	DEBUG	[6442450945] Frame script loaded
+1537428309696	Marionette	DEBUG	[6442450945] Frame script registered
+1537428309723	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537428311534	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537428317009	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428317776	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428319355	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537428720215	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537428720216	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537428720216	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537428720216	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537428720217	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15892, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15[Parent 14884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429174138	Marionette	INFO	Stopped listening on port 52292
+[GPU 21288, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537428906353	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428907181	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537428908787	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Child 9840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9840, Chrome_ChildThread] WARNING: pipe error: [Parent 9924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11537428919647	Marionette	INFO	Stopped listening on port 53369
+[GPU 18428, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537428966714	geckodriver	INFO	geckodriver 0.20.1
+1537428966751	geckodriver	INFO	Listening on 127.0.0.1:53572
+1537428969753	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.Wxmf3eeutmAY"
+1537428974514	Marionette	INFO	Listening on port 53588
+1537428975059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537428975093	Marionette	DEBUG	[6442450945] Frame script loaded
+1537428975097	Marionette	DEBUG	[6442450945] Frame script registered
+1537428975110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537428977279	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537428980202	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537428981003	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537428982507	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 14220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[nC/hiiplcd_ 7928, Chrome_ChildThread] WARNING: pipe error:c h1annel_win.cc, line 3460
+9: file z:/build/build/src/ipc/chromium/src/ch[Child 2668, Chrome_Chilrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 14220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429172597	Marionette	INFO	Stopped listening on port 53588
+[GPU 2868, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537429012530	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429013084	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429014845	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Child 12188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe1537429176015	Marionette	INFO	Stopped listening on port 53714
+[GPU 18508, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Use //# instead
+1537429119115	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429119304	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+[Parent 11708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20020[Parent 11708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429143620	Marionette	INFO	Stopped listening on port 53953
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537429145891	geckodriver	INFO	geckodriver 0.20.1
+1537429145931	geckodriver	INFO	Listening on 127.0.0.1:54076
+1537429148926	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.5Yosm4iGiatb"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537429154258	Marionette	INFO	Listening on port 54092
+1537429154745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537429154780	Marionette	DEBUG	[6442450945] Frame script loaded
+1537429154781	Marionette	DEBUG	[6442450945] Frame script registered
+1537429154795	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537429157559	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537429162014	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429162576	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429163965	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 18060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18060
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 16604, Chrome_ChildThread] WARNING: pipe [Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429306027	Marionette	INFO	Stopped listening on port 54092
+[GPU 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537429212059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429212727	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429214119	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+1537429785353	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537429785354	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537429786900	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537429786901	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537429786901	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 17100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common
+/ipc_channel_win.c[cC, line 346
+[Child 17100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 14496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8784, C1537429883942	Marionette	INFO	Stopped listening on port 54248
+[GPU 4776, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+k
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537429394073	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429395006	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429396759	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537429839646	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537429839647	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537429855393	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537429855393	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537429855394	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 17896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 7256, Chrome_ChildThread] WARNING: pipe e[rror: Child 12504, Chrome_ChildThread] WARNING109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429881451	Marionette	INFO	Stopped listening on port 54718
+[GPU 6896, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537429482470	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 17044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2492, Chrome_ChildTh[Child 3784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+c/chromium/src/chrome/c
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ommon/ipc_channel_win.cc, line 346
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+[Parent 17044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537429489629	Marionette	INFO	Stopped listening on port 54933
+[GPU 1428, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537429842724	geckodriver	INFO	geckodriver 0.20.1
+1537429842764	geckodriver	INFO	Listening on 127.0.0.1:63135
+1537429845750	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.hUQVzhcVXo3K"
+1537429851101	Marionette	INFO	Listening on port 63147
+1537429851574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537429851645	Marionette	DEBUG	[6442450945] Frame script loaded
+1537429851770	Marionette	DEBUG	[6442450945] Frame script registered
+1537429851926	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537429855583	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537429858320	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537429859257	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+[Parent 16468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108, Chrome_ChildThread] WARNING: pipe error: [Parent 16468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11537429883808	Marionette	INFO	Stopped listening on port 63147
+[GPU 12820, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537432635051	geckodriver	INFO	geckodriver 0.20.1
+1537432635092	geckodriver	INFO	Listening on 127.0.0.1:51539
+1537432638084	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.FsZh5JZJQhkb"
+1537432643302	Marionette	INFO	Listening on port 51551
+1537432643963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537432644008	Marionette	DEBUG	[6442450945] Frame script loaded
+1537432644012	Marionette	DEBUG	[6442450945] Frame script registered
+1537432644024	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537432645945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537432649748	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537432650257	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=3&pageSize=60&jl=489&kw=python&kt=3
+1537432652009	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537432655033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432655145	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432655148	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537432655989	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432656107	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432657788	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537433222375	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537433222376	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537433241876	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537433241876	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537433241877	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1432, Chrome_C[Parent 14660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537444070778	Marionette	INFO	Stopped listening on port 51551
+e	WARN	TLS certificate errors will be ignored for this session
+1537432819561	Marionette	DEBUG	[6442450945] Frame script loaded
+1537432819565	Marionette	DEBUG	[6442450945] Frame script registered
+1537432819578	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537432821503	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537432824717	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+1537432825674	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+[Parent 18336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1537432860013	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.qcLOMHNLjryp"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537432865248	Marionette	INFO	Listening on port 52177
+1537432865341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537432865399	Marionette	DEBUG	[6442450945] Frame script loaded
+1537432865404	Marionette	DEBUG	[6442450945] Frame script registered
+1537432865423	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537432866821	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537432872258	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432872757	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+[Child 1396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 17268, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 17268, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 17268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17268[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13200, Chrome_ChildThread] WARNING:1537432899704	Marionette	INFO	Stopped listening on port 52177
+[GPU 9928, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537432901393	geckodriver	INFO	geckodriver 0.20.1
+1537432901426	geckodriver	INFO	Listening on 127.0.0.1:52306
+1537432904429	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.umNixnZYhzzP"
+1537432909557	Marionette	INFO	Listening on port 52320
+1537432909766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537432909825	Marionette	DEBUG	[6442450945] Frame script loaded
+1537432909838	Marionette	DEBUG	[6442450945] Frame script registered
+1537432909864	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537432911145	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537432914233	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537432914910	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+[Parent 18260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537432936140	Marionette	INFO	Stopped listening on port 52320
+[GPU 11140, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537435968846	geckodriver	INFO	geckodriver 0.20.1
+1537435968891	geckodriver	INFO	Listening on 127.0.0.1:57615
+1537435971876	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.ya0I2sI4i1Lp"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537435977447	Marionette	INFO	Listening on port 57631
+1537435977771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537435977827	Marionette	DEBUG	[6442450945] Frame script loaded
+1537435977830	Marionette	DEBUG	[6442450945] Frame script registered
+1537435978298	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537435981245	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537435984772	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537435985121	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18764, Chrome_ChildThread] WARNING: pipe error:[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537436006857	Marionette	INFO	Stopped listening on port 57631
+[GPU 4176, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537436018095	geckodriver	INFO	geckodriver 0.20.1
+1537436018136	geckodriver	INFO	Listening on 127.0.0.1:57773
+1537436021139	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.jyWRCaj08SSw"
+1537436026943	Marionette	INFO	Listening on port 57785
+1537436026969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537436027043	Marionette	DEBUG	[6442450945] Frame script loaded
+1537436027047	Marionette	DEBUG	[6442450945] Frame script registered
+1537436027085	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537436028023	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537436031324	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537436031908	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537436033290	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537436044148	Marionette	INFO	Stopped listening on port 57785
+[GPU 12728, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537436057278	geckodriver	INFO	geckodriver 0.20.1
+1537436057317	geckodriver	INFO	Listening on 127.0.0.1:57901
+1537436060319	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.N3l055jVr47e"
+1537436065614	Marionette	INFO	Listening on port 57913
+1537436065662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537436065749	Marionette	DEBUG	[6442450945] Frame script loaded
+1537436065752	Marionette	DEBUG	[6442450945] Frame script registered
+1537436065775	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537436067253	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537436070525	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537436071390	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?p=2&pageSize=60&jl=489&kw=python&kt=3
+1537436072952	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537436646067	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537436646067	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537436646168	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537436646168	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537436646168	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 5396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 5396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537442163894	Marionette	INFO	Stopped listening on port 57913
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8640, Chrome_ChildThread] WARNI[Parent 11804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537442166888	Marionette	INFO	Stopped listening on port 58073
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537442693175	geckodriver	INFO	geckodriver 0.20.1
+1537442693218	geckodriver	INFO	Listening on 127.0.0.1:54176
+1537442696194	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.kTTIUVUTTl8W"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537442702039	Marionette	INFO	Listening on port 54190
+1537442702526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537442702562	Marionette	DEBUG	[6442450945] Frame script loaded
+1537442702564	Marionette	DEBUG	[6442450945] Frame script registered
+1537442702585	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537442704553	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537442708756	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+1537442709829	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+[Parent 18012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Ch/ild 20272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 20272, Chro[mCeh_iClhdi l1d2T7h2r8e,a Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346d
+] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5391537442838928	Marionette	INFO	Stopped listening on port 54190
+[GPU 6204, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot se[Parent 4792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [lCihild 3772, Chrome_ChildThread] WAneRNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346 346
+
+[Child 3772, Chrome_ChildTh[Child 2716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21537442845967	Marionette	INFO	Stopped listening on port 54330
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537442766192	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+1537442766909	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+1537443343794	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537443343794	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537443344074	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537443344075	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537443344075	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 13780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Parent 13780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1537444056203	Marionette	INFO	Stopped listening on port 54452
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/ipc/chromium/src/chrome/common/ipc_chan[Parent 3532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 81537442841457	Marionette	INFO	Stopped listening on port 54571
+[GPU 18600, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537446985922	geckodriver	INFO	geckodriver 0.20.1
+1537446986048	geckodriver	INFO	Listening on 127.0.0.1:50504
+1537446988960	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.FOPB3FrK3GRG"
+1537446994604	Marionette	INFO	Listening on port 50516
+1537446994822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537446994866	Marionette	DEBUG	[6442450945] Frame script loaded
+1537446994943	Marionette	DEBUG	[6442450945] Frame script registered
+1537446994961	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537446996197	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://images.zhaopin.cn/IHRNB/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537447000709	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+1537447001706	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sou.zhaopin.com/?pageSize=60&jl=489&kw=python&kt=3
+[Child 17148, Chrome_ChildThre[Child 17108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17[Parent 9232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537447073080	Marionette	INFO	Stopped listening on port 50516
+[GPU 12760, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537448616649	geckodriver	INFO	geckodriver 0.20.1
+1537448616688	geckodriver	INFO	Listening on 127.0.0.1:55391
+1537448619696	mozrunner::runner	INFO	Running command: "E:\\FireFox\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\temp\\rust_mozprofile.WumYC6acJyRP"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537448625346	Marionette	INFO	Listening on port 55406
+1537448625598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537448625668	Marionette	DEBUG	[6442450945] Frame script loaded
+1537448625670	Marionette	DEBUG	[6442450945] Frame script registered
+1537448625727	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537448627438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://img08.zhaopin.cn/2014/head_foot/js/head_foot.js, line 195: ReferenceError: jQuery is not defined
+1537448631412	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://jobs.zhaopin.com/562244523362357.htm
+1537448632204	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://jobs.zhaopin.com/562244523362357.htm
+[Parent 14068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Child 17812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrominu/ipc_channel_win.cc, line 346
+m/src/chrome/common/ipc_channel_win.[Child 15c65c, line 346
+[Child 1781537448758122	Marionette	INFO	Stopped listening on port 55406
+[GPU 20144, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
